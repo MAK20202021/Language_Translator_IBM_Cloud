@@ -4,7 +4,7 @@ This exercise provides the idea how to use IBM cloud in the usecae of Speech to 
 
 
 ## Project Motivation
-Machine
+API (Application Program Interface)
 
 ## Acknowledgement
 This exercise is for Coursera course (Python for Data Science, AI and Development) (https://www.coursera.org/learn/python-for-applied-data-science-ai). 
