@@ -1,6 +1,6 @@
 # Language_Translator_IBM_Cloud
 
-This exercise provides the idea how to use IBM cloud in the usecae of Speech to text and Language Translator. 
+This exercise provides the idea how to use Speech to text and Language Translator service in IBM Cloud. At the beginning, I needed to create an instance for Language Translator service and another instance for Speech to text service.
 
 
 ## Project Motivation
