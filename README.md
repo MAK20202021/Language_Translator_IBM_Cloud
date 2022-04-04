@@ -16,4 +16,4 @@ The source codes are as follows:
 - Language_Translator.html
 
 ## Discussion
-After completing this exercise, I understand how we can utilize Speech to text and Language Translator service of IBM Cloud in case of NLP application, 
+After completing this exercise, I understand how we can utilize Speech to text and Language Translator service of IBM Cloud in case of NLP application.
